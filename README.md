@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PROMPT-DIFF&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=See%20exactly%20what%20you%20changed%20in%20your%20system%20prompt&descAlignY=55&descSize=16"/>
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Visit_Now-6366f1?style=for-the-badge&logoColor=white)](https://prompt-diff-chi.vercel.app)
+[![GitHub Stars](https://img.shields.io/github/stars/trinathone/prompt-diff?style=for-the-badge&color=f59e0b)](https://github.com/trinathone/prompt-diff)
+[![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
 # prompt-diff
 
 Ever spent an hour tweaking a system prompt, then wondered: "Wait — what did I actually change? Did I just add 300 tokens without noticing?"
